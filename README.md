@@ -5,3 +5,4 @@ This week's Challenge requires you to create an application that an employee can
 
 ## Description
 This program generates a random password based on the user's preferences. When the "Generate Password" button is clicked, the user will be faced with 4 prompts, one after the other, asking the length of the password and what type of characters the user wants to include. Once all prompts have been answered, a random password will be generated. 
+
